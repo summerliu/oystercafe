@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/oystercafe/static/css/main.d1b05096.chunk.css",
+    "main.js": "/oystercafe/static/js/main.715c8640.chunk.js",
+    "main.js.map": "/oystercafe/static/js/main.715c8640.chunk.js.map",
+    "runtime-main.js": "/oystercafe/static/js/runtime-main.8009b551.js",
+    "runtime-main.js.map": "/oystercafe/static/js/runtime-main.8009b551.js.map",
+    "static/js/2.ea211f39.chunk.js": "/oystercafe/static/js/2.ea211f39.chunk.js",
+    "static/js/2.ea211f39.chunk.js.map": "/oystercafe/static/js/2.ea211f39.chunk.js.map",
+    "index.html": "/oystercafe/index.html",
+    "precache-manifest.f09fb667ebb8fc33c00ae22df6e5dd0a.js": "/oystercafe/precache-manifest.f09fb667ebb8fc33c00ae22df6e5dd0a.js",
+    "service-worker.js": "/oystercafe/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/oystercafe/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ea211f39.chunk.js.LICENSE.txt": "/oystercafe/static/js/2.ea211f39.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/oystercafe/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8009b551.js",
+    "static/js/2.ea211f39.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.715c8640.chunk.js"
+  ]
+}
